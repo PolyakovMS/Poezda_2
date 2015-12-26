@@ -1,0 +1,163 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<Train_list>
+  <train name ="427">
+    <type>
+      express
+    </type>  
+<distanation>Москва Нижние-котлы Расторгуево Барыбино Кашира Яганово Узуново Тула</distanation>
+<time>08:00 08:23 08:50 09:20 11:45 13:30 14:15 16:00</time>
+  </train>
+  <train name ="428">
+    <type>
+      express
+    </type>
+<distanation>Москва Нижние-котлы Расторгуево Барыбино Кашира Яганово Узуново</distanation>
+    <time>08:00 09:23 10:50 11:20 13:45 15:30 16:15</time>
+  </train>
+  <train name ="429">
+    <type>
+      conventional
+    </type>
+    <distanation>Москва Нижние-котлы Расторгуево Барыбино Кашира Ожерелье Узуново Тула</distanation>
+    <time>08:00 10:23 11:50 12:20 12:45 14:30 16:15 18:00</time>
+  </train>
+  <train name ="430">
+    <type>
+      express
+    </type>
+    <distanation>Москва Нижние-котлы Расторгуево Барыбино Кашира Яганово Узуново Тула</distanation>
+    <time>09:00 10:23 11:50 12:20 14:45 16:30 17:15 18:00</time>
+  </train>
+  <train name ="431">
+  
+    <type>
+    
+       express
+  
+    </type>
+  
+ <distanation>Москва Нижние-котлы Расторгуево Барыбино Кашира Яганово Узуново Тула</distanation>
+  
+    <time>10:15 10:53 11:50 12:20 14:45 16:30 18:15 19:00</time>
+
+  </train>
+   <train name ="435">
+    <type>
+      express
+    </type>  
+<distanation>Тула Нижние-Котлы Расторгуево Барыбино Кашира Яганово Узуново Москва</distanation>
+<time>08:00 08:23 08:50 09:20 11:45 13:30 14:15 16:00</time>
+  </train>
+<train name ="432">
+    <type>
+      express
+    </type>  
+<distanation>Москва Нижние-Котлы Расторгуево Взлетная Авиационная Космос Аэропорт-Домодедово</distanation>
+<time> 09:23 09:50 10:20 12:45 14:30 15:15 17:00</time>
+  </train>
+<train name ="433">
+    <type>
+      express
+    </type>  
+<distanation>Узуново Яганово Кашира Барыбино Расторгуево Нижние-Котлы Москва</distanation>
+<time> 03:23 04:50 05:20 06:45 07:30 08:15 09:00</time>
+  </train>
+<train name ="434">
+    <type>
+      express
+    </type>  
+<distanation>Аэропорт-Шереметьево Марк Пушкино Окружная Ворсино Кучино Сандарово</distanation>
+<time> 13:23 14:50 15:20 16:45 17:30 18:15 19:00</time>
+  </train>
+<train name ="436">
+    <type>
+      express
+    </type>  
+<distanation>Казанский-Вокзал Детково Ворсино Кучино Сандарово Жилёво Шемякино Рязань</distanation>
+<time> 18:00 18:23 18:50 19:20 21:45 23:30 00:15 01:00 01:45</time>
+  </train>
+ </train><train name ="437">
+    <type>
+      express
+    </type>  
+<distanation>Казанский-Вокзал Детково Ворсино Кучино Хомяково Шемякино Рязань</distanation>
+<time> 18:00 18:23 18:50 19:20 21:45 23:30 00:15 01:00</time>
+  </train>
+</train><train name ="438">
+    <type>
+      express
+    </type>  
+<distanation>Рязань Шемякино Жилёво Сандарово Кучино Ворсино Детково Казанский-Вокзал</distanation>
+<time> 18:00 18:23 18:50 19:20 21:45 23:30 00:15 01:00 01:45</time>
+  </train>
+</train><train name ="439">
+    <type>
+      express
+    </type>  
+<distanation>Рязань Шемякино Хомяково Кучино Ворсино Детково Казанский-Вокзал</distanation>
+<time> 13:23 14:50 15:20 16:45 17:30 18:15 19:00 </time>
+  </train>
+</train><train name ="440">
+    <type>
+      express
+    </type>  
+<distanation>Казанский-Вокзал Детково Ворсино Кучино Сандарово Хомяково Белые-Столбы</distanation>
+<time> 08:00 09:23 10:50 11:20 13:45 15:30 16:15</time>
+  </train>
+</train><train name ="441">
+    <type>
+      express
+    </type>  
+<distanation>Белые-Столбы Хомяково Сандарово Кучино Ворсино Детково Казанский-Вокзал</distanation>
+<time> 08:00 09:23 10:50 11:20 13:45 15:30 16:15</time>
+  </train>
+</train><train name ="442">
+    <type>
+      express
+    </type>  
+<distanation>Сандарово Кучино Ворсино Окружная Пушкино Марк Аэропорт-Шереметьево</distanation>
+<time> 08:00 09:23 10:50 11:20 13:45 15:30 16:15</time>
+  </train>
+</train><train name ="443">
+    <type>
+      express
+    </type>  
+<distanation>Казанский-Вокзал Детково Ворсино Кучино Сандарово Пурлово Луховицы Озёры Казань</distanation>
+<time> 08:00 09:23 10:50 11:20 13:45 15:30 16:15 17:00 18:00</time>
+  </train>
+</train><train name ="444">
+    <type>
+      express
+    </type>  
+<distanation>Казань Озёра Луховицы Пурлово Сандарово Кучино Ворсино Детково Казанский-Вокзал</distanation>
+<time> 08:00 09:23 10:50 11:20 13:45 15:30 16:15 17:00 18:00</time>
+  </train>
+</train><train name ="445">
+    <type>
+      express
+    </type>  
+<distanation>Казань Луховицы Пурлово Сандарово Кучино Ворсино Окружная Пушкино Марк Аэропорт-Шереметьево</distanation>
+<time> 08:00 09:23 10:50 11:20 13:45 15:30 16:15 17:00 18:00 18:45</time>
+ </train>
+</train><train name ="446">
+    <type>
+      express
+    </type>  
+<distanation>Аэропорт-Шереметьево Марк Пушкино Окружная Ворсино Кучино Сандарово Пурлово Озёры Казань</distanation>
+<time> 08:00 09:23 10:50 11:20 13:45 15:30 16:15 17:00 18:00 18:45</time>
+ </train>
+</train><train name ="447">
+    <type>
+      express
+    </type>  
+<distanation>Ярославский-Вокзал Соколовская Щёлково Чкаловская Монино Электросталь Сергиев-Пасад Струнино Казань</distanation>
+<time> 08:00 09:23 10:50 11:20 13:45 15:30 16:15 17:00 18:00</time>
+ </train>
+</train><train name ="448">
+    <type>
+      express
+    </type>  
+<distanation>Казань Струнино Сергиев-Пасад Электросталь Монино Чкаловская Щёлково Соколовкая Ярославский-Вокзал</distanation>
+<time> 08:00 09:23 10:50 11:20 13:45 15:30 16:15 17:00 18:00</time>
+  </train>
+<Train_list>

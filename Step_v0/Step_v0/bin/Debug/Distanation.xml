@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Distanation_list>
+
+  <Distanation id ="01">
+
+	<Start>Москва</Start>
+	<End>Тула</End> 
+	<stops>Москва Нижние-Котлы Расторгуево Барыбино Кашира Яганово Узуново Тула</stops>
+  </Distanation>
+
+  <Distanation id ="02">
+	<Start>Москва</Start>
+	<End>Узуново</End>
+ 
+	<stops>Москва Нижние-Котлы Расторгуево Барыбино Кашира Яганово Узуново</stops>
+ 
+  </Distanation>
+
+  <Distanation id ="03">
+ 
+	<Start>Москва</Start>
+	<End>Тула</End>
+	<stops>Москва Нижние-Котлы Взлетная Барыбино Кашира Яганово Узуново Тула</stops>
+ 
+  </Distanation>
+
+  <Distanation id ="04">
+ 
+	<Start>Москва</Start>
+	<End>Тула</End>
+	<stops>Москва Нижние-Котлы Коломенская Расторгуево Барыбино Кашира Яганово Узуново Тула</stops>
+ 
+  </Distanation>
+
+  <Distanation id ="05">
+	<Start>Тула</Start>
+	<End>Москва</End>
+ 
+	<stops>Тула Нижние-Котлы Расторгуево Барыбино Кашира Яганово Узуново Москва</stops>
+
+  </Distanation>
+</Distanation_list>

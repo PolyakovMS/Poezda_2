@@ -1,0 +1,95 @@
+c:\users\жанна\documents\visual studio 2015\Projects\Step_v0\Step_v0\bin\Debug\Step_v0.exe.config
+c:\users\жанна\documents\visual studio 2015\Projects\Step_v0\Step_v0\bin\Debug\Step_v0.exe
+c:\users\жанна\documents\visual studio 2015\Projects\Step_v0\Step_v0\bin\Debug\Step_v0.pdb
+c:\users\жанна\documents\visual studio 2015\Projects\Step_v0\Step_v0\obj\Debug\Step_v0.csprojResolveAssemblyReference.cache
+c:\users\жанна\documents\visual studio 2015\Projects\Step_v0\Step_v0\obj\Debug\Step_v0.Form1.resources
+c:\users\жанна\documents\visual studio 2015\Projects\Step_v0\Step_v0\obj\Debug\Step_v0.Properties.Resources.resources
+c:\users\жанна\documents\visual studio 2015\Projects\Step_v0\Step_v0\obj\Debug\Step_v0.csproj.GenerateResource.Cache
+c:\users\жанна\documents\visual studio 2015\Projects\Step_v0\Step_v0\obj\Debug\Step_v0.exe
+c:\users\жанна\documents\visual studio 2015\Projects\Step_v0\Step_v0\obj\Debug\Step_v0.pdb
+C:\Users\ZeKa\Documents\GitHub\Poezd-master\Step_v0\Step_v0\bin\Debug\Step_v0.exe.config
+C:\Users\ZeKa\Documents\GitHub\Poezd-master\Step_v0\Step_v0\obj\Debug\Step_v0.exe
+C:\Users\ZeKa\Documents\GitHub\Poezd-master\Step_v0\Step_v0\obj\Debug\Step_v0.pdb
+C:\Users\ZeKa\Documents\GitHub\Poezd-master\Step_v0\Step_v0\bin\Debug\Step_v0.exe
+C:\Users\ZeKa\Documents\GitHub\Poezd-master\Step_v0\Step_v0\bin\Debug\Step_v0.pdb
+C:\Users\ZeKa\Documents\GitHub\Poezd-master\Step_v0\Step_v0\obj\Debug\Step_v0.csprojResolveAssemblyReference.cache
+C:\Users\ZeKa\Documents\GitHub\Poezd-master\Step_v0\Step_v0\obj\Debug\Step_v0.Form1.resources
+C:\Users\ZeKa\Documents\GitHub\Poezd-master\Step_v0\Step_v0\obj\Debug\Step_v0.Properties.Resources.resources
+C:\Users\ZeKa\Documents\GitHub\Poezd-master\Step_v0\Step_v0\obj\Debug\Step_v0.csproj.GenerateResource.Cache
+C:\Users\Жанна\Desktop\Проект\train-master\Step_v0\Step_v0\bin\Debug\Step_v0.exe.config
+C:\Users\Жанна\Desktop\Проект\train-master\Step_v0\Step_v0\obj\Debug\Step_v0.pdb
+C:\Users\Жанна\Desktop\Проект\train-master\Step_v0\Step_v0\bin\Debug\Step_v0.exe
+C:\Users\Жанна\Desktop\Проект\train-master\Step_v0\Step_v0\bin\Debug\Step_v0.pdb
+C:\Users\Жанна\Desktop\Проект\train-master\Step_v0\Step_v0\obj\Debug\Step_v0.csprojResolveAssemblyReference.cache
+C:\Users\Жанна\Desktop\Проект\train-master\Step_v0\Step_v0\obj\Debug\Step_v0.Form1.resources
+C:\Users\Жанна\Desktop\Проект\train-master\Step_v0\Step_v0\obj\Debug\Step_v0.Properties.Resources.resources
+C:\Users\Жанна\Desktop\Проект\train-master\Step_v0\Step_v0\obj\Debug\Step_v0.csproj.GenerateResource.Cache
+C:\Users\Жанна\Desktop\Проект\train-master\Step_v0\Step_v0\obj\Debug\Step_v0.exe
+C:\Users\Жанна\Desktop\Poezd-master\train-master\Step_v0\Step_v0\bin\Debug\Step_v0.exe.config
+C:\Users\Жанна\Desktop\Poezd-master\train-master\Step_v0\Step_v0\obj\Debug\Step_v0.pdb
+C:\Users\Жанна\Desktop\Poezd-master\train-master\Step_v0\Step_v0\bin\Debug\Step_v0.exe
+C:\Users\Жанна\Desktop\Poezd-master\train-master\Step_v0\Step_v0\bin\Debug\Step_v0.pdb
+C:\Users\Жанна\Desktop\Poezd-master\train-master\Step_v0\Step_v0\obj\Debug\Step_v0.csprojResolveAssemblyReference.cache
+C:\Users\Жанна\Desktop\Poezd-master\train-master\Step_v0\Step_v0\obj\Debug\Step_v0.Form1.resources
+C:\Users\Жанна\Desktop\Poezd-master\train-master\Step_v0\Step_v0\obj\Debug\Step_v0.Properties.Resources.resources
+C:\Users\Жанна\Desktop\Poezd-master\train-master\Step_v0\Step_v0\obj\Debug\Step_v0.csproj.GenerateResource.Cache
+C:\Users\Жанна\Desktop\Poezd-master\train-master\Step_v0\Step_v0\obj\Debug\Step_v0.exe
+C:\Users\Жанна\Desktop\Poezd-master\train-master\Step_v0\Step_v0\obj\Debug\Step_v0.Form2.resources
+C:\Users\Жанна\Documents\Visual Studio 2015\Projects\Poezd-master\train-master\Step_v0\Step_v0\bin\Debug\Step_v0.exe.config
+C:\Users\Жанна\Documents\Visual Studio 2015\Projects\Poezd-master\train-master\Step_v0\Step_v0\obj\Debug\Step_v0.exe
+C:\Users\Жанна\Documents\Visual Studio 2015\Projects\Poezd-master\train-master\Step_v0\Step_v0\obj\Debug\Step_v0.pdb
+C:\Users\Жанна\Documents\Visual Studio 2015\Projects\Poezd-master\train-master\Step_v0\Step_v0\bin\Debug\Step_v0.exe
+C:\Users\Жанна\Documents\Visual Studio 2015\Projects\Poezd-master\train-master\Step_v0\Step_v0\bin\Debug\Step_v0.pdb
+C:\Users\Жанна\Documents\Visual Studio 2015\Projects\Poezd-master\train-master\Step_v0\Step_v0\obj\Debug\Step_v0.csprojResolveAssemblyReference.cache
+C:\Users\Жанна\Documents\Visual Studio 2015\Projects\Poezd-master\train-master\Step_v0\Step_v0\obj\Debug\Step_v0.Form1.resources
+C:\Users\Жанна\Documents\Visual Studio 2015\Projects\Poezd-master\train-master\Step_v0\Step_v0\obj\Debug\Step_v0.Form2.resources
+C:\Users\Жанна\Documents\Visual Studio 2015\Projects\Poezd-master\train-master\Step_v0\Step_v0\obj\Debug\Step_v0.Properties.Resources.resources
+C:\Users\Жанна\Documents\Visual Studio 2015\Projects\Poezd-master\train-master\Step_v0\Step_v0\obj\Debug\Step_v0.csproj.GenerateResource.Cache
+C:\Users\Жанна\Documents\Visual Studio 2015\Projects\Poezd-master\train-master\Step_v0\Step_v0\obj\Debug\Step_v0.MMT.resources
+C:\Users\Serg\Desktop\Проект ST&P\27.11\Poezd-master\Poezd-master\train-master\Step_v0\Step_v0\bin\Debug\Step_v0.exe.config
+C:\Users\Serg\Desktop\Проект ST&P\27.11\Poezd-master\Poezd-master\train-master\Step_v0\Step_v0\obj\Debug\Step_v0.pdb
+C:\Users\Serg\Desktop\Проект ST&P\27.11\Poezd-master\Poezd-master\train-master\Step_v0\Step_v0\bin\Debug\Step_v0.exe
+C:\Users\Serg\Desktop\Проект ST&P\27.11\Poezd-master\Poezd-master\train-master\Step_v0\Step_v0\bin\Debug\Step_v0.pdb
+C:\Users\Serg\Desktop\Проект ST&P\27.11\Poezd-master\Poezd-master\train-master\Step_v0\Step_v0\obj\Debug\Step_v0.Form1.resources
+C:\Users\Serg\Desktop\Проект ST&P\27.11\Poezd-master\Poezd-master\train-master\Step_v0\Step_v0\obj\Debug\Step_v0.Form2.resources
+C:\Users\Serg\Desktop\Проект ST&P\27.11\Poezd-master\Poezd-master\train-master\Step_v0\Step_v0\obj\Debug\Step_v0.MMT.resources
+C:\Users\Serg\Desktop\Проект ST&P\27.11\Poezd-master\Poezd-master\train-master\Step_v0\Step_v0\obj\Debug\Step_v0.Properties.Resources.resources
+C:\Users\Serg\Desktop\Проект ST&P\27.11\Poezd-master\Poezd-master\train-master\Step_v0\Step_v0\obj\Debug\Step_v0.csproj.GenerateResource.Cache
+C:\Users\Serg\Desktop\Проект ST&P\27.11\Poezd-master\Poezd-master\train-master\Step_v0\Step_v0\obj\Debug\Step_v0.exe
+C:\Users\Serg\Desktop\Проект ST&P\27.11\Poezd-master\Poezd-master\train-master\Step_v0\Step_v0\obj\Debug\Step_v0.TrainControl.resources
+C:\Users\Жанна\Desktop\Poezda-master\28.11 ST&P\Step_v0\Step_v0\bin\Debug\Step_v0.exe.config
+C:\Users\Жанна\Desktop\Poezda-master\28.11 ST&P\Step_v0\Step_v0\obj\Debug\Step_v0.pdb
+C:\Users\Жанна\Desktop\Poezda-master\28.11 ST&P\Step_v0\Step_v0\bin\Debug\Step_v0.exe
+C:\Users\Жанна\Desktop\Poezda-master\28.11 ST&P\Step_v0\Step_v0\bin\Debug\Step_v0.pdb
+C:\Users\Жанна\Desktop\Poezda-master\28.11 ST&P\Step_v0\Step_v0\obj\Debug\Step_v0.csprojResolveAssemblyReference.cache
+C:\Users\Жанна\Desktop\Poezda-master\28.11 ST&P\Step_v0\Step_v0\obj\Debug\Step_v0.Form1.resources
+C:\Users\Жанна\Desktop\Poezda-master\28.11 ST&P\Step_v0\Step_v0\obj\Debug\Step_v0.Form2.resources
+C:\Users\Жанна\Desktop\Poezda-master\28.11 ST&P\Step_v0\Step_v0\obj\Debug\Step_v0.MMT.resources
+C:\Users\Жанна\Desktop\Poezda-master\28.11 ST&P\Step_v0\Step_v0\obj\Debug\Step_v0.Properties.Resources.resources
+C:\Users\Жанна\Desktop\Poezda-master\28.11 ST&P\Step_v0\Step_v0\obj\Debug\Step_v0.TrainControl.resources
+C:\Users\Жанна\Desktop\Poezda-master\28.11 ST&P\Step_v0\Step_v0\obj\Debug\Step_v0.csproj.GenerateResource.Cache
+C:\Users\Жанна\Desktop\Poezda-master\28.11 ST&P\Step_v0\Step_v0\obj\Debug\Step_v0.exe
+C:\Users\Жанна\Documents\Visual Studio 2015\Projects\Poezd-master\28.11 ST&P\Step_v0\Step_v0\bin\Debug\Step_v0.exe.config
+C:\Users\Жанна\Documents\Visual Studio 2015\Projects\Poezd-master\28.11 ST&P\Step_v0\Step_v0\obj\Debug\Step_v0.exe
+C:\Users\Жанна\Documents\Visual Studio 2015\Projects\Poezd-master\28.11 ST&P\Step_v0\Step_v0\obj\Debug\Step_v0.pdb
+C:\Users\Жанна\Documents\Visual Studio 2015\Projects\Poezd-master\28.11 ST&P\Step_v0\Step_v0\bin\Debug\Step_v0.exe
+C:\Users\Жанна\Documents\Visual Studio 2015\Projects\Poezd-master\28.11 ST&P\Step_v0\Step_v0\bin\Debug\Step_v0.pdb
+C:\Users\Жанна\Documents\Visual Studio 2015\Projects\Poezd-master\28.11 ST&P\Step_v0\Step_v0\obj\Debug\Step_v0.Form1.resources
+C:\Users\Жанна\Documents\Visual Studio 2015\Projects\Poezd-master\28.11 ST&P\Step_v0\Step_v0\obj\Debug\Step_v0.Form2.resources
+C:\Users\Жанна\Documents\Visual Studio 2015\Projects\Poezd-master\28.11 ST&P\Step_v0\Step_v0\obj\Debug\Step_v0.MMT.resources
+C:\Users\Жанна\Documents\Visual Studio 2015\Projects\Poezd-master\28.11 ST&P\Step_v0\Step_v0\obj\Debug\Step_v0.Properties.Resources.resources
+C:\Users\Жанна\Documents\Visual Studio 2015\Projects\Poezd-master\28.11 ST&P\Step_v0\Step_v0\obj\Debug\Step_v0.TrainControl.resources
+C:\Users\Жанна\Documents\Visual Studio 2015\Projects\Poezd-master\28.11 ST&P\Step_v0\Step_v0\obj\Debug\Step_v0.csproj.GenerateResource.Cache
+C:\Users\Жанна\Documents\Visual Studio 2015\Projects\Poezd-master\28.11 ST&P\Step_v0\Step_v0\obj\Debug\Step_v0.csprojResolveAssemblyReference.cache
+C:\stp\Poezd\Poezd-master\28.11 ST&P\Step_v0\Step_v0\bin\Debug\Step_v0.exe.config
+C:\stp\Poezd\Poezd-master\28.11 ST&P\Step_v0\Step_v0\obj\Debug\Step_v0.pdb
+C:\stp\Poezd\Poezd-master\28.11 ST&P\Step_v0\Step_v0\bin\Debug\Step_v0.exe
+C:\stp\Poezd\Poezd-master\28.11 ST&P\Step_v0\Step_v0\bin\Debug\Step_v0.pdb
+C:\stp\Poezd\Poezd-master\28.11 ST&P\Step_v0\Step_v0\obj\Debug\Step_v0.csprojResolveAssemblyReference.cache
+C:\stp\Poezd\Poezd-master\28.11 ST&P\Step_v0\Step_v0\obj\Debug\Step_v0.Form1.resources
+C:\stp\Poezd\Poezd-master\28.11 ST&P\Step_v0\Step_v0\obj\Debug\Step_v0.Form2.resources
+C:\stp\Poezd\Poezd-master\28.11 ST&P\Step_v0\Step_v0\obj\Debug\Step_v0.MMT.resources
+C:\stp\Poezd\Poezd-master\28.11 ST&P\Step_v0\Step_v0\obj\Debug\Step_v0.Properties.Resources.resources
+C:\stp\Poezd\Poezd-master\28.11 ST&P\Step_v0\Step_v0\obj\Debug\Step_v0.TrainControl.resources
+C:\stp\Poezd\Poezd-master\28.11 ST&P\Step_v0\Step_v0\obj\Debug\Step_v0.csproj.GenerateResource.Cache
+C:\stp\Poezd\Poezd-master\28.11 ST&P\Step_v0\Step_v0\obj\Debug\Step_v0.exe

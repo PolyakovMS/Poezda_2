@@ -1,0 +1,152 @@
+﻿<?xml version="1.0" encoding="utf-8" ?><Ostanovki_list>
+  <ostanovka name ="Москва">
+    <info>50 48</info>
+  </ostanovka>
+  <ostanovka name ="Нижние-Котлы">
+    <info>107 48</info>
+  </ostanovka>
+  <ostanovka name ="Коломенская">
+    <info>177 48</info>
+  </ostanovka>
+  <ostanovka name ="Расторгуево">
+    <info>244 48</info>
+  </ostanovka>
+  <ostanovka name ="Взлетная">
+    <info>337 48</info>
+  </ostanovka>
+  <ostanovka name ="Барыбино">
+    <info>420 48</info>
+  </ostanovka>
+  <ostanovka name ="Кашира">
+    <info>505 48</info>
+  </ostanovka>
+  <ostanovka name ="Ожерелье">
+    <info>596 48</info>
+  </ostanovka>
+  <ostanovka name ="Яганово">
+    <info>688 48</info>
+  </ostanovka>
+  <ostanovka name ="Узуново">
+    <info>781 48</info>
+  </ostanovka>
+  <ostanovka name ="Тула">
+    <info>940 48</info>
+  </ostanovka>
+<ostanovka name ="Авиационная">
+    <info>403 101</info>
+  </ostanovka>
+  <ostanovka name ="Космос">
+    <info>427 135</info>
+  </ostanovka>
+  <ostanovka name ="Аэропорт-Домодедово">
+    <info>450 173</info>
+  </ostanovka>
+  <ostanovka name ="Клемово">
+    <info>660 129</info>
+  </ostanovka>
+  <ostanovka name ="Шульгино">
+    <info>660 206</info>
+  </ostanovka>
+  <ostanovka name ="Серпухов">
+    <info>660 273</info>
+  </ostanovka>
+  <ostanovka name ="Казанский-Вокзал">
+    <info>60 395</info>
+  </ostanovka>
+  <ostanovka name ="Детково">
+    <info>140 395</info>
+  </ostanovka>
+  <ostanovka name ="Ворсино">
+    <info>234 395</info>
+  </ostanovka>
+  <ostanovka name ="Кучино">
+    <info>350 395</info>
+  </ostanovka>
+  <ostanovka name ="Сандарово">
+    <info>441 395</info>
+  </ostanovka>
+  <ostanovka name ="Хомяково">
+    <info>537 395</info>
+  </ostanovka>
+  <ostanovka name ="Белые-Столбы">
+    <info>606 395</info>
+  </ostanovka>
+  <ostanovka name ="Жилёво">
+    <info>736 395</info>
+  </ostanovka>
+  <ostanovka name ="Шемякино">
+    <info>840 395</info>
+  </ostanovka>
+  <ostanovka name ="Рязань">
+    <info>947 395</info>
+  </ostanovka>
+  <ostanovka name ="Окружная">
+    <info>140 275</info>
+  </ostanovka> 
+  <ostanovka name ="Пушкино">
+    <info>140 227</info>
+  </ostanovka>
+  <ostanovka name ="Марк">
+    <info>140 184</info>
+  </ostanovka>
+  <ostanovka name ="Аэропорт-Шереметьево">
+    <info>1140 140</info>
+  </ostanovka>
+  <ostanovka name ="Пурлово">
+    <info>608 509</info>
+  </ostanovka>
+  <ostanovka name ="Луховицы">
+    <info>696 509</info>
+  </ostanovka>
+  <ostanovka name ="Озёры">
+    <info>817 509</info>
+  </ostanovka>
+<ostanovka name ="Казань">
+    <info>955 509</info>
+  </ostanovka>
+  <ostanovka name ="Ярославский-Вокзал">
+    <info>183 627</info>
+  </ostanovka>
+  <ostanovka name ="Соколовская">
+    <info>62 627</info>
+  </ostanovka>
+  <ostanovka name ="Щёлково">
+    <info>275 627</info>
+  </ostanovka>
+<ostanovka name ="Чкаловская">
+    <info>382 627</info>
+  </ostanovka>
+  <ostanovka name ="Монино">
+    <info>503 627</info>
+  </ostanovka>
+  <ostanovka name ="Электросталь">
+    <info>634 627</info>
+  </ostanovka>
+  <ostanovka name ="Сергиев-Пасад">
+    <info>736 627</info>
+  </ostanovka>
+  <ostanovka name ="Струнино">
+    <info>828 627</info>
+  </ostanovka>
+<ostanovka name ="Красноармейск">
+    <info>895 466</info>
+  </ostanovka>
+  <ostanovka name ="Софрино">
+    <info>895 428</info>
+  </ostanovka>
+  <ostanovka name ="Бужаниново">
+    <info>895 328</info>
+  </ostanovka>
+  <ostanovka name ="Иванцево">
+    <info>895 284</info>
+  </ostanovka>
+<ostanovka name ="Бельково">
+    <info>895 245</info>
+  </ostanovka>
+  <ostanovka name ="Киржачь">
+    <info>895 203</info>
+  </ostanovka>
+  <ostanovka name ="Ярославь">
+    <info>895 160</info>
+  </ostanovka>
+</Ostanovki_list>
